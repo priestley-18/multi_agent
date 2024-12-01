@@ -1,0 +1,12 @@
+# Core Python Libraries
+python-dotenv==1.0.0  # Loads environment variables
+
+# AI Frameworks
+crewai==0.19.0        # Multi-agent AI framework
+langchain==0.1.11      # LLM integration library
+openai>=1.13.3,<2.0.0        # OpenAI API client
+
+# Web & Data Processing
+tavily-python==0.5.0  # Web search tool
+requests==2.31.0      # HTTP library
+pandas==2.0.3         # Data manipulation
